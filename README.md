@@ -17,7 +17,6 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/KirolusHany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirolus-hany-60a5aa2b1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirolushany8@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201100622408)
@@ -37,7 +36,7 @@
 🌱 Passionate about **Clean Architecture**, **Microservices**, and **Performance Optimization**  
 🎯 Focused on writing clean code, solving complex problems, and transforming ideas into reliable solutions  
 📍 Based in **Giza, Egypt**  
-💬 Ask me about **ASP.NET Core, Angular, Clean Architecture**  
+💬 Ask me about **ASP.NET Core, Angular, Clean Architecture, LINQ, SignalR, RabbitMQ**  
 ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions  
 
 <br clear="right"/>
@@ -46,10 +45,14 @@
 
 ### Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-4FC08D?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signalr&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend & Mobile
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -58,7 +61,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 
 ### Cloud & DevOps
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -73,8 +75,10 @@
 ### Architecture & Patterns
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-4FC08D?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-9C27B0?style=for-the-badge)
+![Specification Pattern](https://img.shields.io/badge/Specification%20Pattern-673AB7?style=for-the-badge)
+![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-2196F3?style=for-the-badge)
+![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-FF9800?style=for-the-badge)
 
 ## 💼 Professional Experience
 
